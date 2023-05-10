@@ -1,0 +1,2 @@
+# EasyConnect
+深信服ARM版处理器银河麒麟V10 SP1系统EasyConnect
